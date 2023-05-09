@@ -1,6 +1,6 @@
 A python script to extract the function call graph from `.apk` file
 
-I use `Androguard` to initialize the call graph. If you are interested in `Androguard`, you can visit its [repo]([androguard/androguard: Reverse engineering and pentesting for Android applications (github.com)](https://github.com/androguard/androguard)).
+I use `Androguard` to initialize the call graph. If you are interested in `Androguard`, you can visit its [repo](https://github.com/androguard/androguard). 
 
 
 
