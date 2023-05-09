@@ -60,4 +60,4 @@ You can only use `main.py` to achieve the functions above.
 python main.py app-debug.apk --CLASS
 ```
 
-run above to get the FCG of `app-debug.apk`. 
+run above to get the FCG of `app-debug.apk` by class. 
