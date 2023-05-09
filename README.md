@@ -9,7 +9,7 @@ I use `Androguard` to initialize the call graph. If you are interested in `Andro
 ### download the repo
 
 ```
-git clone 
+git clone https://github.com/Gax-c/APKFCG.git
 ```
 
 
